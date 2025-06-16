@@ -31,3 +31,15 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# System
+.DS_Store
+
+# Secrets
+application.properties
+
+
+
+
+
+
